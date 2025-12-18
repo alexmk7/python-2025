@@ -10,6 +10,7 @@ __pycache__/
 # IDE
 .ipynb_checkpoints/
 .vscode/
+.mypy_cache/
 .idea/
 
 # Java
